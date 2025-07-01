@@ -4,11 +4,10 @@
 ██████╗ ██╗   ██╗██████╗ ███████╗██████╗ ██████╗ ██╗   ██╗███╗   ██╗██╗  ██╗
 ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██║   ██║████╗  ██║██║ ██╔╝
 ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝██████╔╝██║   ██║██╔██╗ ██║█████╔╝ 
-██║       ╚██╔╝  ██╔═══╝ ██╔══╝  ██╔═══╝ ██╔═══╝ ██║   ██║██║╚██╗██║██╔═██╗ 
-███████╗   ██║   ██║     ███████╗██║     ██║     ╚██████╔╝██║ ╚████║██║  ██╗
-╚══════╝   ╚═╝   ╚═╝     ╚══════╝╚═╝     ╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝
-
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7CFC00&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+kijunsung+%F0%9F%91%8B;Backend+Engineer+%7C+Spring+Boot+%7C+React;AWS+%7C+MariaDB+%7C+Python+%7C+JavaScript+%7C+TS;VS+Code+%7C+PyCharm+%7C+IntelliJ;Always+Learning+and+Building" /> </p>
+██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██╔═══╝ ██║   ██║██║╚██╗██║██╔═██╗ 
+╚██████╗   ██║   ██████╔╝███████╗██║  ██║██║     ╚██████╔╝██║ ╚████║██║  ██╗
+ ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=800&height=60&lines=%3E%3E+SYSTEM+ONLINE+%3C%3C;%3E%3E+NEURAL+LINK+ESTABLISHED+%3C%3C;%3E%3E+ACCESSING+MAINFRAME...+%3C%3C;%3E%3E+FULL+STACK+HACKER+%3C%3C;%3E%3E+AI+ARCHITECT+%3C%3C;%3E%3E+CODE+SAMURAI+%3C%3C" alt="Typing SVG" />
 
 🧠 About Me
 > whoami
