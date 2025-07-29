@@ -59,11 +59,12 @@
 </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 
+        🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> 
         <a href=https://www.notion.so/22bc32bf1911803caac2d4d157cd8a76> 
             <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/22bc32bf1911803caac2d4d157cd8a76"> <br>
-        ✉️ keejunsd@naver.com</a>
+        ✉️email: keejunsd@naver.com</a>
           </div> 
         <br> 
     </div> 
