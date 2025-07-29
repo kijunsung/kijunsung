@@ -65,7 +65,7 @@
     <div style="text-align: left;"> 
         <a href=https://www.notion.so/22bc32bf1911803caac2d4d157cd8a76> 
             <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/22bc32bf1911803caac2d4d157cd8a76"> <br>
-        keejunsd@naver.com</a>
+        ✉️ keejunsd@naver.com</a>
           </div> 
         <br> 
     <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkijunsung%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
