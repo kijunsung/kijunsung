@@ -63,7 +63,7 @@
     <div style="text-align: left;"> 
         <a href=https://www.notion.so/22bc32bf1911803caac2d4d157cd8a76> 
             <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/22bc32bf1911803caac2d4d157cd8a76"> <br>
-        ✉️ **keejunsd@naver.com**</a>
+        ✉️ keejunsd@naver.com</a>
           </div> 
         <br> 
     </div> 
