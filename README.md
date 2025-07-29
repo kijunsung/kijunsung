@@ -9,8 +9,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 
         🛠️ Tech Stacks </h2> 
         >제가 사용해본 기술들을 소개합니다. 
-    <div style="margin: ; text-align: left;" "text-align: left;">  <br>
-        
+    <div style="margin: ; text-align: left;" "text-align: left;">  <br>        
 ### 💻 Development Environment
 <p>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -63,7 +62,10 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://www.notion.so/22bc32bf1911803caac2d4d157cd8a76> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/22bc32bf1911803caac2d4d157cd8a76"> </a>
+    <div style="text-align: left;"> 
+        <a href=https://www.notion.so/22bc32bf1911803caac2d4d157cd8a76> 
+            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/22bc32bf1911803caac2d4d157cd8a76">
+        keejunsd@naver.com</a>
           </div> 
         <br> 
     <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkijunsung%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
