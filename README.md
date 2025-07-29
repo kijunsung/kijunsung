@@ -9,7 +9,8 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 
         🛠️ Tech Stacks </h2> <br> 
         >제가 사용해본 기술들을 소개합니다.
-    <div style="margin: ; text-align: left;" "text-align: left;">  💻 Development Environment
+    <div style="margin: ; text-align: left;" "text-align: left;">  
+### 💻 Development Environment
 <p>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/>
