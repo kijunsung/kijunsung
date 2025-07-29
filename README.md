@@ -8,7 +8,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 
         🛠️ Tech Stacks </h2> <br> 
-        >제가 사용해본 기술들을 소개합니다.
+        >제가 사용해본 기술들을 소개합니다. <br>
     <div style="margin: ; text-align: left;" "text-align: left;">  
 ### 💻 Development Environment
 <p>
