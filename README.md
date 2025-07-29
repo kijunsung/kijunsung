@@ -10,7 +10,7 @@
         🛠️ Tech Stacks </h2> 
         >제가 사용해본 기술들을 소개합니다. 
     <div style="margin: ; text-align: left;" "text-align: left;">  <br>        
-### 💻 Development Environment
+ 💻 Development Environment
 <p>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/>
