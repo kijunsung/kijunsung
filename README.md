@@ -68,6 +68,7 @@
 - 🧱 **Frontend**: React, TypeScript, Vite, MUI  
 - 🔧 **Backend**: Spring Boot 3.x, JPA, MariaDB, Docker  
 - 🔗 [프로젝트 바로가기](https://kijunsung.github.io/tour-frontend-deploy/)
+- https://github.com/kijunsung/Last_TourProject/tree/main
 
 ---
 
